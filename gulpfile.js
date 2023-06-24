@@ -18,26 +18,26 @@ sass.compiler = require('node-sass');
 
 gulp.task('dist-assets', function (done) {
     gulp.src('./src/js/**.*')
-        .pipe(gulp.dest('./dev/js'));
+        .pipe(gulp.dest('./docs/js'));
     gulp.src('./src/img/**/**.*')
-        .pipe(gulp.dest('./dev/img'));
+        .pipe(gulp.dest('./docs/img'));
       done();
 });
 
 gulp.task('prod-copy', function (done) {
-    gulp.src('./dev/**/**.*')
+    gulp.src('./docs/**/**.*')
     .pipe(gulp.dest('./public/'));
     done();
 });
 
 gulp.task('minify-css', () => {
   return gulp
-    .src('dev/css/*.css')
+    .src('docs/css/*.css')
     .pipe(cleanCSS({
       compatibility: 'ie8'
     }))
     .pipe( rename( { suffix: '.min' } ) )
-    .pipe(gulp.dest('dev/css'))
+    .pipe(gulp.dest('docs/css'))
     .pipe(browserSync.stream());
 });
 
@@ -72,7 +72,7 @@ gulp.task('clean-dist', function() {
 });
 
 gulp.task('clean', function() {
-  return gulp.src('dev/scss', {
+  return gulp.src('docs/scss', {
       read: false
     })
     .on('error', function(err) {
@@ -89,14 +89,14 @@ gulp.task('browser-sync', function(done) {
             baseDir: "./dev"
         }
     });
-gulp.watch("dev/**/*.*").on('change', browserSync.reload);
+gulp.watch("docs/**/*.*").on('change', browserSync.reload);
 });
 
 // Compile sass to css
 gulp.task('sass', function () {
   return gulp.src('src/scss/theme.scss')
     .pipe(sass().on('error', sass.logError))
-    .pipe(gulp.dest('dev/css'))
+    .pipe(gulp.dest('docs/css'))
 });
 
 gulp.task('inject-min-css', function(done) {
