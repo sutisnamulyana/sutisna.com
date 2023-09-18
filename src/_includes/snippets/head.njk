@@ -9,6 +9,15 @@
   <meta name="generator" content="{{ eleventy.generator }}">
   <meta name="HandheldFriendly" content="true"/>
   <title>{{ title or metadata.title }}</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ ga4config.ga4MeasurementId }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', '{{ ga4config.ga4MeasurementId }}');
+    </script>
   <!-- build:css -->
   <link rel="stylesheet" href="{{ '/css/theme.css' | url }}">
    <!-- endbuild -->
