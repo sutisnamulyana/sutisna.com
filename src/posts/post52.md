@@ -3,7 +3,8 @@ title: Profesi yang paling dibutuhkan di Swedia
 date: 2024-07-16
 ---
 Berikut adalah daftar profesi yang paling dibutuhkan di Swedia menurut Migrationsverkets (berdasakan keputusan 14 Agustus 2023):
-
+&nbsp;
+&nbsp;
 
 1. Paramedis ambulans (SSYK 5326)
 
@@ -85,8 +86,14 @@ Berikut adalah daftar profesi yang paling dibutuhkan di Swedia menurut Migration
 
 40. Perawat spesialis lainnya (SSYK 2239)
 
+&nbsp;
+
+Follow Instagram [@sutisnamulyana](https://www.instagram.com/sutisnamulyana/) untuk tips dan informasi kerja dan kehidupan di Swedia.
+
+&nbsp;
 
 Sumber:
+
 [Dokumen bahasa Swedia](https://sutisna.com/file/se-profesi-dibutuhkan-di-swedia)
 
 [Dokumen bahasa Indonesia (terjemahan)](https://sutisna.com/file/id-profesi-dibutuhkan-di-swedia)
