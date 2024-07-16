@@ -4,86 +4,89 @@ date: 2024-07-16
 ---
 Berikut adalah daftar profesi yang paling dibutuhkan di Swedia menurut Migrationsverkets (berdasakan keputusan 14 Agustus 2023):
 
-Paramedis ambulans (SSYK 5326)
 
-Terapis okupasi (SSYK 2273)
+1. Paramedis ambulans (SSYK 5326)
 
-Perawat anak dan perawat sekolah (SSYK 2232, 2233)
+2. Terapis okupasi (SSYK 2273)
 
-Analis Biomedis (SSYK 3212)
+3. Perawat anak dan perawat sekolah (SSYK 2232, 2233)
 
-Pengemudi bus dan trem (SSYK 8331)
+4. Analis Biomedis (SSYK 3212)
 
-Perawat Distrik (SSYK 2224)
+5. Pengemudi bus dan trem (SSYK 8331)
 
-Teknisi pengoperasian di pembangkit listrik tenaga pemanas dan air (SSYK 8191)
+6. Perawat Distrik (SSYK 2224)
 
-Fisioterapis (SSYK 2272)
+7. Teknisi pengoperasian di pembangkit listrik tenaga pemanas dan air (SSYK 8191)
 
-Penggerak mesin pertanian dan kehutanan (SSYK 8341)
+8. Fisioterapis (SSYK 2272)
 
-Guru prasekolah (SSYK 2343)
+9. Penggerak mesin pertanian dan kehutanan (SSYK 8341)
 
-Perawat Geriatri (SSYK 2227)
+10. Guru prasekolah (SSYK 2343)
 
-Guru sekolah dasar (SSYK 2341)
+11. Perawat Geriatri (SSYK 2227)
 
-Perawat Dasar (SSYK 2234, 2221)
+12. Guru sekolah dasar (SSYK 2341)
 
-Operator derek (SSYK 8343)
+13. Perawat Dasar (SSYK 2234, 2221)
 
-Teknisi pompa pendingin dan panas (SSYK 7126)
+14. Operator derek (SSYK 8343)
 
-Guru mata pelajaran SMK (SSYK 2320)
+15. Teknisi pompa pendingin dan panas (SSYK 7126)
 
-Guru tanpa pelatihan spesialis (SSYK 2219, 2212, 2213)
+16. Guru mata pelajaran SMK (SSYK 2320)
 
-Sekretaris Medis dan Administrator Layanan Kesehatan (SSYK 4117)
+17. Guru tanpa pelatihan spesialis (SSYK 2219, 2212, 2213)
 
-Inspektur perlindungan lingkungan dan kesehatan (SSYK 2182)
+18. Sekretaris Medis dan Administrator Layanan Kesehatan (SSYK 4117)
 
-Pengembang perangkat lunak dan sistem (SSYK 2512)
+19. Inspektur perlindungan lingkungan dan kesehatan (SSYK 2182)
 
-Mekanik kendaraan bermotor dan reparasi kendaraan (SSYK 7231)
+20. Pengembang perangkat lunak dan sistem (SSYK 2512)
 
-Perawat ruang operasi (SSYK 2231)
+21. Mekanik kendaraan bermotor dan reparasi kendaraan (SSYK 7231)
 
-Perawat Jiwa (SSYK 2225)
+22. Perawat ruang operasi (SSYK 2231)
 
-Psikolog (SSYK 2241)
+23. Perawat Jiwa (SSYK 2225)
 
-Perawat rontgen (SSYK 2235)
+24. Psikolog (SSYK 2241)
 
-Perawat dalam perawatan darurat (SSYK 2223, 2228, 2226)
+25. Perawat rontgen (SSYK 2235)
 
-Dokter Spesialis (SSYK 2211)
+26. Perawat dalam perawatan darurat (SSYK 2223, 2228, 2226)
 
-Guru spesialis dan pendidik khusus (SSYK 2351)
+27. Dokter Spesialis (SSYK 2211)
 
-Tukang las dan pemotong gas (SSYK 7212)
+28. Guru spesialis dan pendidik khusus (SSYK 2351)
 
-Bimbingan belajar dan kejuruan (SSYK 2351)
+29. Tukang las dan pemotong gas (SSYK 7212)
 
-Analis produk sistem dan arsitek TI (SSYK 2511)
+30. Bimbingan belajar dan kejuruan (SSYK 2351)
 
-Inspektur keselamatan (SSYK 3354)
+31. Analis produk sistem dan arsitek TI (SSYK 2511)
 
-Ahli kesehatan gigi (SSYK 3250)
+32. Inspektur keselamatan (SSYK 3354)
 
-Dokter Gigi (2260)
+33. Ahli kesehatan gigi (SSYK 3250)
 
-Perawat (SSYK 5321, 5323, 5325)
+34. Dokter Gigi (2260)
 
-Insinyur perpipaan (sebutan dalam SSYK 3114)
+35. Perawat (SSYK 5321, 5323, 5325)
 
-Pemasang pipa (SSYK 7125)
+36. Insinyur perpipaan (sebutan dalam SSYK 3114)
 
-Guru mata pelajaran pada mata pelajaran matematika dan sains (penunjukan dalam SSYK 2330)
+37. Pemasang pipa (SSYK 7125)
 
-Spesialis lain dalam pelayanan kesehatan (SSYK 2289)
+38. Guru mata pelajaran pada mata pelajaran matematika dan sains (penunjukan dalam SSYK 2330)
 
-Perawat spesialis lainnya (SSYK 2239)
+39. Spesialis lain dalam pelayanan kesehatan (SSYK 2289)
+
+40. Perawat spesialis lainnya (SSYK 2239)
+
 
 Sumber:
 [Dokumen bahasa Swedia](https://sutisna.com/file/se-profesi-dibutuhkan-di-swedia)
+
 [Dokumen bahasa Indonesia (terjemahan)](https://sutisna.com/file/id-profesi-dibutuhkan-di-swedia)
