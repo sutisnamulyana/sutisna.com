@@ -88,7 +88,7 @@ Berikut adalah daftar profesi yang paling dibutuhkan di Swedia menurut Migration
 
 &nbsp;
 
-Follow Instagram [@sutisnamulyana](https://www.instagram.com/sutisnamulyana/) untuk tips dan informasi kerja dan kehidupan di Swedia.
+Follow Instagram [@sutisnamulyana](https://www.instagram.com/sutisnamulyana/) untuk tips, informasi kerja dan kehidupan di Swedia.
 
 &nbsp;
 
