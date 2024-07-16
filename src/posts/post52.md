@@ -94,6 +94,6 @@ Follow Instagram [@sutisnamulyana](https://www.instagram.com/sutisnamulyana/) un
 
 Sumber:
 
-[Dokumen bahasa Swedia](https://sutisna.com/file/se-profesi-dibutuhkan-di-swedia)
+[Dokumen bahasa Swedia](https://sutisna.com/img/se-profesi-dibutuhkan-di-swedia)
 
-[Dokumen bahasa Indonesia (terjemahan)](https://sutisna.com/file/id-profesi-dibutuhkan-di-swedia)
+[Dokumen bahasa Indonesia (terjemahan)](https://sutisna.com/img/id-profesi-dibutuhkan-di-swedia)
