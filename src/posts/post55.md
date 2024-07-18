@@ -60,7 +60,7 @@ Karena gw dateng udah mau musim dingin, jadi beli baju dingin tambahan. Dan itu 
 - Tiket + Makan/Pakaian (gw buletin ya): 35.500.000 + 30.500.000 = 66.000.000.
 - Kalo mau hitung sama housing bulan pertama berarti: 35.500.000 + 30.500.000 + 27.400.000 = 93.400.000.
 - Selain biaya yang gede-gede itu, pastinya banyak ya biaya perintilan untuk persiapan: bikin passport istri dan anak, trip ke jakarta untuk ambil finger print dan foto visa, beli koper tambahan dll.
-- Dan tentu tiap orang dan keluarga punya life-style masing-masing, jadi biaya total itu cuma referensi aja ya/
+- Dan tentu tiap orang dan keluarga punya life-style masing-masing, jadi biaya total itu cuma referensi aja ya.
 
 &nbsp;
 
