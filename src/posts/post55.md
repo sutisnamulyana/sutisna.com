@@ -5,6 +5,9 @@ img: traveloka
 ---
 Sesuai hasil vote di IG story gw di [@sutisnamulyana](https://www.instagram.com/sutisnamulyana/), berikut adalah rincian biaya pindahan gw sekeluarga ke Swedia pada November 2022 lalu.
 
+&nbsp;
+&nbsp;
+
 ### One way tiket pesawat Jakarta-Stockholm
 Kita waktu itu beli tiketnya 21 Oktober 2022 untuk keberangkatan 14 November 2022. Ini termasuk tiket mepet, makanya mungkin lebih mahal.
 
