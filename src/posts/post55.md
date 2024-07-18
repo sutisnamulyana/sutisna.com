@@ -28,7 +28,7 @@ Belinya via Traveloka dengan total Rp 35.521.200 untuk Thai Airways dengan rinci
 Tempat kerja gw itu hire agency yang bantu relokasi untuk urus visa, bikin rekening bank dan termasuk bantu cariin apartemen. Jadi gw tinggal milih aja mau apartmen yang mana. Tapi ya bayar sendiri.
 
 Semua pilihan yang mereka kasih mahal semua. Mungkin karena kriteria nya gw agak neko-neko, gw pengen:
-- Ga jaug dari tempat kerja
+- Ga jauh dari tempat kerja
 - Ga jauh dari kota
 - Lingkungan aman buat anak dan dekat ke sekolah
 - Dan pengen full furnish. Karena awal-awal dateng gw ga mau dulu beli-beli furnitur segala macem.
@@ -51,6 +51,7 @@ Karena gw dateng udah mau musim dingin, jadi beli baju dingin tambahan. Dan itu 
 
 **PRO TIPS:**
 - Baju dingin/jaket ga usah bawa banyak-banyak dari Indo. Beli di sini aja soalnya banyak produk khusus yang lebih cocok buat di sini yang ga ada di Indonesia.
+- Dan banyak baju dingin/jaket second hand.
 
 &nbsp;
 &nbsp;
