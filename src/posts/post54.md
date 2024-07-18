@@ -1,5 +1,5 @@
 ---
-title: Pindah ke Swedia gimana caranya? Pakai jalur ini.
+title: Pindah ke Swedia gimana caranya? Pakai jalur ini
 date: 2024-07-18
 ---
 Untuk bisa pindah ke Swedia, kita harus punya izin berupa visa. Ada beberapa jalur yang bisa ditempuh untuk mendapatkan visa tersebut:
