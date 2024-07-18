@@ -57,6 +57,9 @@ Untuk biaya hidup selama 2 tahun (sesuai periode visa).
 
 Visa yang digunakan: [Resi­dence permit for people who have their own busi­ness](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Self-employment.html).
 
+&nbsp;
+&nbsp;
+
 ### Lain-lain
 - Jenis visa lain: [Plan­ning to get married or become a coha­bi­ting partner](https://www.migrationsverket.se/English/Private-individuals/Moving-to-someone-in-Sweden/Planning-to-marry-or-become-the-cohabiting-partner.html).
 - Di Swedia working holiday visa hanya untuk warga negara Australia, Hong Kong, Canada, Japan, New Zealand atau South Korea ya. Kita ga bisa.
