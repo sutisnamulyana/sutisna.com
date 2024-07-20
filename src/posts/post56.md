@@ -6,7 +6,7 @@ img: pensiun2
 Sistem pensiun di Swedia terbagi menjadi 3 (seperti yang ada di gambar segitiga di atas):
 - Pensiun dari pemerintah (national public pension/allmänna pension).
 - Pensiun dari perusahaan tempat kita kerja (occupational pension/Tjänstepensionen).
-- Tabungan/investiasi pribadi (Eget sparande).
+- Tabungan/investasi pribadi (Eget sparande).
 
 &nbsp;
 &nbsp;
@@ -35,7 +35,7 @@ Occupational pension diperkirakan bisa berkontribusi sekitar 30% ke dana pensiun
 &nbsp;
 &nbsp;
 
-### Tabungan/investiasi pribadi
+### Tabungan/investasi pribadi
 Pensiun dari pemerintah dan dari perusahaan tempat kita kerja diperkirakan bisa ngecover 80% dana pensiun yang bakal kita terima nanti. Kalau mau lebih besar dan aman, ya kita mesti punya tabungan/investasi sendiri. Apalagi gw yang 10 tahun pertama kerja di Indonesia ga ada dana pensiun.
 
 Kalau gw, buka akun investment savings account (ISK) di Avanza. Karena gw pikir supaya satu pintu aja di sana bareng occupational pension dari kantor.
