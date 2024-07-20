@@ -50,7 +50,7 @@ Kalau gw, buka akun investment savings account (ISK) di Avanza. Karena gw pikir 
 - Kalau yg ga mau ikutan give away atau ga dapet, bisa daftar kelasnya dengan harga khusus.
     - Harga normal: Rp 249K
     -  Harga khusus pake kode gw: Rp 125K
-    - Link daftar: https://bit.ly/SUTISNAkelasdanapensiunQM
+    - Link daftar: [https://bit.ly/SUTISNAkelasdanapensiunQM](https://bit.ly/SUTISNAkelasdanapensiunQM)
     - Kode promo: SUTISNA
 
 &nbsp;
