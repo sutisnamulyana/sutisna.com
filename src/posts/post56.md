@@ -4,9 +4,9 @@ date: 2024-07-20
 img: pensiun2
 ---
 Sistem pensiun di Swedia terbagi menjadi 3 (seperti yang ada di gambar segitiga di atas):
-- Pensiun dari pemerintah (national public pension).
-- Pensiun dari perusahaan tempat kita kerja (occupational pension).
-- Tabungan/investiasi pribadi.
+- Pensiun dari pemerintah (national public pension/allmänna pension).
+- Pensiun dari perusahaan tempat kita kerja (occupational pension/Tjänstepensionen).
+- Tabungan/investiasi pribadi (Eget sparande).
 
 &nbsp;
 &nbsp;
