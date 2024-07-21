@@ -42,7 +42,7 @@ Karena judulnya tunjuangan/bantuan anak, tentu diutamakan untuk kebutuhan anak s
 - makanan yang bergizi
 - baju anak dll.
 
-Kalo ngobrol sama orang lokal sini yang kondisi ekonominya mampu, dan suami istri kerja, mereka biasanya tabunga dan investasikan uang untuk digunakan pas anak umur 18 tahun untuk:
+Kalo ngobrol sama orang lokal sini yang kondisi ekonominya mampu, dan suami istri kerja, biasanya mereka tabung dan investasikan uang tersebut. Untuk digunakan pas anak umur 18 tahun untuk:
 - DP apartemen
 - modal keluar rumah untuk kuliah/kerja
 - bikin SIM mobil (biayanya mahal!! - bisa SEK 20.000-an abisnya).
