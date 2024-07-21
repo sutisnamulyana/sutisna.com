@@ -31,9 +31,7 @@ Karena gw punya 3 anak, jadi total nilai tunjangan yang didapet adalah:
 &nbsp;
 
 ### Ayah atau ibu yg terima tunjuangannya?
-Ini terserah kita. Apakah mau ditransfer ke salah satu, atau mau displit.
-
-Kalau gw milih displit, jadi istri dan gw masing2 terima dari Försäkringskassan sebesar SEK 2.240.
+Ini terserah kita. Apakah mau ditransfer ke salah satu, atau mau displit. Kalau gw milih displit, jadi istri dan gw masing2 terima dari Försäkringskassan sebesar SEK 2.240.
 
 &nbsp;
 &nbsp;
