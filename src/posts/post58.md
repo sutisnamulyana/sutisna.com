@@ -100,3 +100,7 @@ Berikut adalah beberapa lowongan Lowongan IT yang dapat membantu proses mendapat
 ### Referensi
 - [How to find work when you’re new in Stockholm](https://www.visitstockholm.com/live-work/find-job/how-to-find-jobs-in-stockholm/).
 - [Looking for work in Sweden? Here are some starting points.](https://sweden.se/work-business/working-in-sweden/finding-a-job)
+
+&nbsp;
+
+Follow Instagram [@sutisnamulyana](https://www.instagram.com/sutisnamulyana/) untuk tips, informasi kerja dan kehidupan di Swedia.
