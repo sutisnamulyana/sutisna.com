@@ -194,11 +194,11 @@ Gw ga masukin dokter, asuransi lainnya, sama eating out/makan di luar ya:
 - Shared Cost: SEK 3.670
 - Transportasi: SEK 1.020
 
-**Total Single: SEK 22.820/bulan (Rp 34.4jt-an)**
+**Total Single: SEK 22.820/bulan (Rp 34.4jt-an).**
 
 &nbsp;
 
-**Keluarga 2 Anak:**:
+**Keluarga 2 Anak:**
 - Housing: SEK 13.000
 - Food: SEK 10.990
 - Biaya Individu Lainnya: SEK 8.720
@@ -206,7 +206,7 @@ Gw ga masukin dokter, asuransi lainnya, sama eating out/makan di luar ya:
 - Transportasi: SEK 1.020
 - Daycare: SEK 1.688
 
-**Total Keluarga 2 Anak: SEK 42.000/bulan (Rp 63.3jt-an)**
+**Total Keluarga 2 Anak: SEK 42.000/bulan (Rp 63.3jt-an).**
 
 Ini di kenyataannya bisa kurang dari ini dan bisa kita pinter-pinter tekan biayanya.
 
