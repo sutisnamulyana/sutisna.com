@@ -49,6 +49,8 @@ Masih dari sumber yang sama dengan pembahasan biaya makanan, biaya individu lain
 
 Nah biaya baju dan sepatu ini tentu beda-beda tiap keluarga ya. Ada yang beli rutin, ada yang beli per beberapa bulan sekali.
 
+&nbsp;
+
 **Hiburan**
 
 Biaya ini misalnya untuk bayar ke museum atau aktivitas rekreasi lainnya.
