@@ -3,9 +3,7 @@ title: Spill biaya hidup di Swedia untuk single & keluarga
 date: 2024-07-27
 img: summer
 ---
-[Gaji di Swedia gede](https://sutisna.com/post-cek-gaji-profesi-swedia-di-sini.html) sih, tapi kan biaya hidupnya gede juga? Yes, betul sekali. Berdasarkan [Numbeo Cost of Living Index 2023](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2023), Swedia ada di urutan ke 31. Jadi termasuk negara dengan biaya hidup tinggi.
-
-Mari kita bahas:
+[Gaji di Swedia gede](https://sutisna.com/post-cek-gaji-profesi-swedia-di-sini.html) sih, tapi kan biaya hidupnya gede juga? Yes, betul sekali. Berdasarkan [Numbeo Cost of Living Index 2023](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2023), Swedia ada di urutan ke 31. Jadi termasuk negara dengan biaya hidup tinggi. Mari kita bahas:
 
 &nbsp;
 
@@ -16,7 +14,7 @@ Ini biaya hidup yang paling mahal. Orang di Swedia [rata-rata menghabiskan 21,9%
 Berdasarkan data dari [Blocket/Qasa yang diolah The Local per Q1 2023](https://www.thelocal.se/20230907/how-much-does-it-cost-to-rent-an-apartment-in-stockholm), berikut nilai median biaya housing di Stockholm (kota lain bisa jadi lebih murah).
 - 1 kamar: SEK 11.800 (Rp 17.8jt-an).
 - 2 kamar: SEK 14.900 (Rp 22.5jt-an).
-- 3 kamar+: SEK 18.500 (Rp 27.9jt-an).
+- 3 kamar atau lebih: SEK 18.500 (Rp 27.9jt-an).
 - Rumah (bukan apartemen): SEK 18.847 (Rp 28.4jt-an).
 
 **Biaya rata-rata nya SEK 14.000 (Rp 21jt-an).**
@@ -52,13 +50,14 @@ Masih dari sumber yang sama dengan pembahasan biaya makanan, biaya individu lain
 Nah biaya baju dan sepatu ini tentu beda-beda tiap keluarga ya. Ada yang beli rutin, ada yang beli per beberapa bulan sekali.
 
 **Hiburan**
+
 Biaya ini misalnya untuk bayar ke museum atau aktivitas rekreasi lainnya.
 - Dewasa: SEK 660/bulan
 - Anak 6-12 bulan: SEK 120/bulan
 - Anak 2-5 tahun: SEK 240/bulan
 - Anak 6-9 tahun: SEK 500/bulan
 
-**Jadi kalau keluarga dua anak (2 tahun+7 tahun), kurang lebih biaya baju dan sepatu: SEK 2.060 (Rp 3.1jt-an).**
+**Jadi kalau keluarga dua anak (2 tahun+7 tahun), kurang lebih biaya hiburan: SEK 2.060 (Rp 3.1jt-an).**
 
 Ini juga opsional ya. Banyak ko playground dan museum yang gratis.
 
@@ -133,6 +132,8 @@ Gw kurang paham dari datanya ini biaya apa aja ko gede banget. Mungkin langganan
 
 Biaya listrik dan air kadang include di biaya bulanan apartemen. Kaya di kasus gw, ga ada biaya itu.
 
+&nbsp;
+
 **Asuransi rumah**
 
 Ini biasanya kita wajib punya dan ga termasuk di biaya sewa bulanann ya. Ini contoh kota besar seperti Stockholm:
@@ -144,8 +145,7 @@ Ini biasanya kita wajib punya dan ga termasuk di biaya sewa bulanann ya. Ini con
 &nbsp;
 
 ### Transportasi
-Ini bisa langganan per bulan ya untuk tiket SL (bis, kereta, ferry):
-- SEK 1.020/bulan
+Ini bisa langganan per bulan ya untuk tiket SL (bis, kereta, ferry): SEK 1.020/bulan.
 
 Ada temen yang ganti-gantian pake sama istri/suaminya. Kaya kasus gw pun, kita cuma beli 1 aja per bulannya. Kalo ada kebutuhan pergi bareng, pake kartu kredit/debit SEK 42/sekali jalan.
 
@@ -153,13 +153,13 @@ Ada temen yang ganti-gantian pake sama istri/suaminya. Kaya kasus gw pun, kita c
 
 ### Eating Out
 
-Seporsi makan di luar bisa sekitar SEK 150-250. Dalam kasus gw budgetin 2x makan di luar dalam sebulan bisa SEK 1000-1500 tergantung mood wkwk
+Seporsi makan di luar bisa sekitar SEK 150-250. Dalam kasus gw budgetin 2x makan di luar dalam sebulan bisa SEK 1.000-1.500 tergantung mood wkwk
 
 &nbsp;
 
 ### Dokter/obat
 
-Layanan kesehatan di Swedia di subsidi, tapi kalo perlu ketemu dokter itu SEK 100-300. Dan ada sistem Frikort (free card). Kalo sudah menghabiskan misal SEK 1400, maka selanjutnya ga bayar.
+Layanan kesehatan di Swedia di subsidi, tapi kalo perlu ketemu dokter itu SEK 100-300. Dan ada sistem Frikort (free card). Kalo sudah menghabiskan misal SEK 1.400, maka selanjutnya ga bayar.
 
 Obat macem-macem sesuai kebutuhan masing-masing, dari harga SEK 40-200. Dan ini sama juga ada sistem subsidi. Jadi secara umum sebenernya ga usah terlalu khawatir soal biaya kesehatan.
 
@@ -170,7 +170,7 @@ Sekolah secara umum gratis, tapi ikutan kegiatan setelah sekolah fritids/day car
 
 Ini perhitungannya agak banyak, soalnya anak ke 2, ke 3 dst itu dapet diskon. Dan tergantung full time/part time jadwal day carenya.
 
-**Di kasus gw, tagihan saat ini SEK 1.254/bulan (Rp 1.5jt-an) untuk day care anak ke 2 part time. Kalau full time tagihan bisa SEK 2.000/bulan**
+**Di kasus gw, tagihan saat ini SEK 1.254/bulan (Rp 1.5jt-an) untuk day care anak ke 2 part time. Kalau full time tagihan bisa SEK 2.000/bulan.**
 
 &nbsp;
 
@@ -183,7 +183,7 @@ Ini perhitungannya agak banyak, soalnya anak ke 2, ke 3 dst itu dapet diskon. Da
 &nbsp;
 
 ### Total biaya hidup
-Gw ga masukin dokter, asuransi lainnya, sama eating out/makan di luar di sini ya:
+Gw ga masukin dokter, asuransi lainnya, sama eating out/makan di luar ya:
 
 **Single:**
 - Housing: SEK 11.800
@@ -206,14 +206,13 @@ Gw ga masukin dokter, asuransi lainnya, sama eating out/makan di luar di sini ya
 
 **Total Keluarga 2 Anak: SEK 42.000/bulan (Rp 63.3jt-an)**
 
-
 Ini di kenyataannya bisa kurang dari ini dan bisa kita pinter-pinter tekan biayanya.
 
 &nbsp;
 
 ### Saving/Investment
 
-Kalo merefer ke aliran 50/30/20 (kebutuhan, keinginan, tabung/investasi), di kasus gw masih aman bisa 20% tabung/investasi dari pendapatan bulanan. Buat yang single apalagi bisa nabung/invest lebih dari 20%.
+Kalo merujuk ke aliran 50/30/20 (kebutuhan, keinginan, tabung/investasi), di kasus gw masih aman bisa 20% tabung/investasi dari pendapatan bulanan. Buat yang single apalagi, bisa nabung/invest lebih dari 20%.
 
 &nbsp;
 
