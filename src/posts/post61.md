@@ -1,6 +1,7 @@
 ---
 title: Begini CV yang bagus, supaya tembus!
 date: 2024-07-31
+img: wt
 ---
 CV punyaku masih punya banyak kekurangan. Tapi belajar dari pengalaman dan belajar sana sini, aku tau gimana CV yang bagus supaya bisa tembus. Terbukti CV punyaku bisa tembus ke Amerika (USA) untuk program pertukaran pelajar dan ke Swedia untuk kerja. Markihas! Mari kita bahas:
 
@@ -60,3 +61,5 @@ Ada tambahan atau pertanyaan? Diskusi di Instagram/WhatsApp ya.
 &nbsp;
 
 Follow Instagram [@sutisnamulyana](https://www.instagram.com/sutisnamulyana/) untuk tips, informasi kerja dan kehidupan di Swedia. QnA/diskusi bisa melalui [WhatsApp ini](https://wa.me/6281111191998) juga.
+
+Image Credit: Credits: Melker Dahlstrand/imagebank.sweden.se
