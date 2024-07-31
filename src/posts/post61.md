@@ -62,4 +62,4 @@ Ada tambahan atau pertanyaan? Diskusi di Instagram/WhatsApp ya.
 
 Follow Instagram [@sutisnamulyana](https://www.instagram.com/sutisnamulyana/) untuk tips, informasi kerja dan kehidupan di Swedia. QnA/diskusi bisa melalui [WhatsApp ini](https://wa.me/6281111191998) juga.
 
-Image Credit: Credits: Melker Dahlstrand/imagebank.sweden.se
+Image Credit: Melker Dahlstrand/imagebank.sweden.se
