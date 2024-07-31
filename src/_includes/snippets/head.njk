@@ -21,6 +21,14 @@
   <!-- build:css -->
   <link rel="stylesheet" href="{{ '/css/theme.css' | url }}">
    <!-- endbuild -->
+   <style>
+    @media (max-width: 575.98px) {
+      .navbar-nav {
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  </style>
 {% if customFont %}
    <style>
 
@@ -64,13 +72,5 @@
        url('/fonts/inter-v12-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('/fonts/inter-v12-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-
-@media (max-width: 575.98px) {
-  .navbar-nav {
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-
 </style>
 {% endif %}
