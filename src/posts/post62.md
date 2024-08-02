@@ -1,7 +1,7 @@
 ---
 title: Haji dari Swedia tanpa antri? Segini biayanya
 date: 2024-08-01
-img: masjid.jpg
+img: masjid
 ---
 Salah satu teman duniawi (gw kasih nama ini ya buat followers dan visitor blog😁 -- mendunia gitu loh maksudnya. Amin!), nanya via DM soal haji dari Swedia. Nah kebetulan gw udah pernah cari tau tipis-tipis. Markihas! Mari kita bahas:
 
@@ -10,7 +10,7 @@ Salah satu teman duniawi (gw kasih nama ini ya buat followers dan visitor blog�
 ### Apakah tanpa antri?
 Nah ini belum nemu informasinya sih apakah ada antrian panjang atau engga. Tapi yang jelas Swedia tetep punya kuota yang ditetapkan sama pemerintah Arab Saudi. [Tahun 2023, kuotanya 1.182](https://worldpopulationreview.com/country-rankings/hajj-quota-by-country).
 
-Di Swedia lumayan banyak sebenernya [penduduk muslim](https://en.wikipedia.org/wiki/Islam_in_Sweden)(sekitar 300,000—350,000) dari Timur Tengah dan Afrika. Cuma ga tau sekompetitif apa rebutan kuota itu tiap tahunnya. Yang jelas, ga bakalan sekompetitif di Indonesia dan ga mesti antri puluhan tahun?
+Di Swedia lumayan banyak sebenernya [penduduk muslim](https://en.wikipedia.org/wiki/Islam_in_Sweden) (sekitar 300,000—350,000) dari Timur Tengah dan Afrika. Cuma ga tau sekompetitif apa rebutan kuota itu tiap tahunnya. Yang jelas, ga bakalan sekompetitif di Indonesia dan ga mesti antri puluhan tahun?
 
 Perusahaan travel di sini sih selalu bilangnya tempat terbatas.
 
