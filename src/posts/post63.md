@@ -5,13 +5,13 @@ img: rekrut
 ---
 Selain aktif mencari lowongan ke perusahaan langsung, alternatif lain yang bisa kita lakukan untuk dapet pekerjaan di Swedia adalah memulai koneksi dengan perusahaan rekrutmen.
 
-Beberapa dari perusahaan rekrutmen menyediakan formulir untuk submit profile/CV supaya kita masuk database talent pool. Kalau ada pekerjaan yang cocok, mungkin nanti kita akan dikasih tau dan ditawarin. Di websitenya perusahaan rekrutmen kadang juga dipublikasikan lowongan yang tersedia.
-
-Note: Ga semua bisa sponsor visa ya. Soal sponsor, tetep balik lagi ke perusahaan yang mau mempekerjakan.
+Beberapa dari perusahaan rekrutmen menyediakan formulir untuk submit profile/CV supaya kita masuk ke database talent pool mereka. Kalau ada pekerjaan yang cocok, mungkin nanti kita akan dikasih tau dan ditawarin. Di websitenya perusahaan rekrutmen kadang juga dipublikasikan lowongan yang tersedia.
 
 Daftar perusahaan rekrutmen ini gw kurasi yg webnya bahasa inggris/billingual dan memang fokus ke talent dengan background internasional. Soalnya kalo webnya ga billingual, kaya ga niat hire talent internasional ga sih.
 
 Berikut adalah perusahaan rekrutmen di Swedia yang bisa kamu kepoin:
+
+Note:  Daftar di bawah ga semua bisa sponsor visa ya. Soal sponsor, tetep balik lagi ke perusahaan yang mau mempekerjakan. Jadi memang perlu dicari info detailnya dan dicoba submit aja kalau ada yg cocok.
 
 &nbsp;
 
@@ -57,7 +57,7 @@ Yang di bawah ini bukan perusahaan rekrutmen, tapi semacam program/inisiatif dar
 
 &nbsp;
 
-Switch to Sweden
+## Switch to Sweden
 - [Website](https://linkopingsciencepark.se/switch-to-sweden/)
 - [Linkedin](https://www.linkedin.com/company/linkoping-science-park/)
 
