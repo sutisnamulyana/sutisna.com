@@ -38,7 +38,7 @@ Ini sebenernya tips umum bgt ya. Tapi gw bahas buat ngingetin aja.
 - Baca text bahasa inggris usahakan tiap hari. Bisa dari artikel atau follow akun sosial media berbahasa inggris.
 - Dengerin musik bahasa inggris dan pelajari liriknya.
 - Nonton film dengan dialog bahasa inggris. Pake subtitle bahasa inggris.
-- Coba tipis-tipis bikin story/staus sosial media pake bahasa inggris. Gpp lah kalo dianggap sok inggris sama yg lain jg🤣
+- Coba tipis-tipis bikin story/status sosial media pake bahasa inggris. Gpp lah kalo dianggap sok inggris sama yg lain jg🤣
 
 &nbsp;
 
