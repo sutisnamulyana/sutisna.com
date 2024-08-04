@@ -31,6 +31,8 @@ Dan followup dari program YSEALI ini banyak. Gw pernah ikut program ke India dan
 
 Nah kalo program ini masih jalan. Dan fundingnya oke. Jadi coba-coba aja ikutan. Tapi memang ada batasan umur (max 35 untuk YSEALI Professional Fellows Program. Untuk Academic Fellow max 25).
 
+Semakin sering ikut program yang maksa ngomong bahasa inggris, kita jadi semakin terbiasa. Jadi lebih pede deh!
+
 &nbsp;
 
 ## Tips lainnya
