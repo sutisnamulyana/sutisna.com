@@ -5,7 +5,7 @@ img: beasiswa
 ---
 Salah satu [jalur untuk pindah ke Swedia](https://sutisna.com/post-pindah-ke-swedia-gimana-caranya-pakai-jalur-ini.html) adalah dengan kuliah terlebih dahulu. Jalur ini banyak diambil sama temen-temen Indo yg sekarang stay dan kerja di Swedia.
 
-Ya tapi kalo pengennya stay, harus beasiswa yang ga nyuruh kita pulang ya. Nah program [Swedish Institute Scholarships for Global Professionals](https://si.se/utlysningar/stipendier/sisgp-masterstudier-i-sverige/) ini, ga nyuruh pulang jadi bisa dicoba.
+Ya tapi kalo pengennya stay, harus beasiswa yang ga nyuruh kita pulang ya. Nah program [Swedish Institute Scholarships for Global Professionals](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/) ini, ga nyuruh pulang jadi bisa dicoba.
 
 &nbsp;
 
@@ -32,16 +32,16 @@ Ya tapi kalo pengennya stay, harus beasiswa yang ga nyuruh kita pulang ya. Nah p
 
 ## Tanggal penting
 - October 2024 – January 2025: Daftar ke program/jurusan yg diminati lewat [University Admission](https://www.universityadmissions.se/intl/start).
-- November 2024: Infor pendaftaran beasiswa dirilis. Termasuk daftar jurusan yang ditentukan.
+- November 2024: Info pendaftaran beasiswa dirilis. Termasuk daftar jurusan yang ditentukan.
 - February 2025: Pendaftaran beasiswa dibuka
-- March 2025: Pengumuman dari University Admission apakah kamu diterima/tidak dari jurusan/program yg kamu pilih.
+- March 2025: Pengumuman dari University Admission. Akan diinfo apakah kamu diterima/tidak dari jurusan/program yg kamu pilih.
 - April 2025: Diumumkan apakah kamu diterima/tidak di beasiswanya.
 
 &nbsp;
 
 ## Penting!
 - Saat kita daftar ke program/jurusan di kampusnya, nanti itu kita mesti bayar biaya pendaftaran sendiri ya. Biayanya SEK 900.
-- Tolong pelajari lebih lengkap di [web beasiwanya](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/#criteria) ya. Gw cuma merangkum aja di artikel ini.
+- Tolong pelajari lebih lengkap di [web beasiswanya](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/#criteria) ya. Gw cuma merangkum aja di artikel ini.
 - Alternatif beasiswa Swedia bisa [dicek di sini](https://studyinsweden.se/scholarships/).
 
 &nbsp;
