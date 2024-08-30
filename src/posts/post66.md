@@ -44,6 +44,7 @@ Ya tapi kalo pengennya stay, harus beasiswa yang ga nyuruh kita pulang ya. Nah p
 - Tolong pelajari lebih lengkap di [web beasiswanya](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/#criteria) ya. Gw cuma merangkum aja di artikel ini.
 - Alternatif beasiswa Swedia bisa [dicek di sini](https://studyinsweden.se/scholarships/).
 
+
 &nbsp;
 
 Ada yang punya informasi tambahan? Kirim DM atau komen di Instagram ya.
