@@ -1,5 +1,5 @@
 ---
-title: Kerja di Swedia bersama Sutisna - Duniawi Webinar
+title: Kerja di Swedia bersama Sutisna
 date: 2024-12-22
 img: kerja-webinar
 ---
